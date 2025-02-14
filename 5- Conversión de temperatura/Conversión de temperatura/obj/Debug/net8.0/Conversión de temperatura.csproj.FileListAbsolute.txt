@@ -1,0 +1,14 @@
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\bin\Debug\net8.0\Conversión de temperatura.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\bin\Debug\net8.0\Conversión de temperatura.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\bin\Debug\net8.0\Conversión de temperatura.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\bin\Debug\net8.0\Conversión de temperatura.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\bin\Debug\net8.0\Conversión de temperatura.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\refint\Conversión de temperatura.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\Conversión de temperatura.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Conversión de temperatura\Conversión de temperatura\Conversión de temperatura\obj\Debug\net8.0\ref\Conversión de temperatura.dll

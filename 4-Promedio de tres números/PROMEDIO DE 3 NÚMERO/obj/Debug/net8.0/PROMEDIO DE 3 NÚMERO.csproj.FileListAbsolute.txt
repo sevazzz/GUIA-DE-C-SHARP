@@ -1,0 +1,14 @@
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\bin\Debug\net8.0\PROMEDIO DE 3 NÚMERO.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\bin\Debug\net8.0\PROMEDIO DE 3 NÚMERO.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\bin\Debug\net8.0\PROMEDIO DE 3 NÚMERO.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\bin\Debug\net8.0\PROMEDIO DE 3 NÚMERO.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\bin\Debug\net8.0\PROMEDIO DE 3 NÚMERO.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\refint\PROMEDIO DE 3 NÚMERO.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\PROMEDIO DE 3 NÚMERO.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Promedio de tres números\PROMEDIO DE 3 NÚMERO\PROMEDIO DE 3 NÚMERO\obj\Debug\net8.0\ref\PROMEDIO DE 3 NÚMERO.dll

@@ -1,0 +1,28 @@
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\refint\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\ref\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\bin\Debug\net8.0\Suma de 5 numeros.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\refint\Suma de 5 numeros.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\Suma de 5 numeros.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\1- Suma de 5 numeros\Suma de 5 numeros\obj\Debug\net8.0\ref\Suma de 5 numeros.dll

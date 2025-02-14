@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROMEDIO DE 3 NÚMERO/1.0.0": {
+        "runtime": {
+          "PROMEDIO DE 3 NÚMERO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROMEDIO DE 3 NÚMERO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

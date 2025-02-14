@@ -1,0 +1,28 @@
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\refint\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\Área del circulo\Área del circulo\obj\Debug\net8.0\ref\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.exe
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.deps.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.runtimeconfig.json
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\bin\Debug\net8.0\Área del circulo.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\refint\Área del circulo.dll
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.pdb
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\Área del circulo.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Escritorio\Guia de C#\2- Área de un circulo\Área del circulo\obj\Debug\net8.0\ref\Área del circulo.dll
